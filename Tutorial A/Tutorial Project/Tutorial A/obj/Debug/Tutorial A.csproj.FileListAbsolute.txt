@@ -1,0 +1,11 @@
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\bin\Debug\Tutorial A.exe.config
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\bin\Debug\Tutorial A.exe
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\bin\Debug\Tutorial A.pdb
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial_A.Form1.resources
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial_A.Properties.Resources.resources
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial_A.Resource1.resources
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial A.csproj.GenerateResource.cache
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial A.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial A.exe
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial A.pdb
+C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Project2\Tutorial A\Tutorial A\obj\Debug\Tutorial A.csprojAssemblyReference.cache
