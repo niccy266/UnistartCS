@@ -16,5 +16,20 @@ namespace Exercise2
         {
             InitializeComponent();
         }
+
+        private void buttonChlorineCost_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonClear_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

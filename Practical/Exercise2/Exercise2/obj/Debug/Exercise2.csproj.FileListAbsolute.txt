@@ -7,3 +7,13 @@ C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Practical\Exercis
 C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
 C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.exe
 C:\Users\Nicolas\OneDrive - Matamata College\C#\COMPX101\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.Form1.resources
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.Properties.Resources.resources
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.GenerateResource.cache
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Staff\Documents\Nico\C#\Week3\Practical\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
